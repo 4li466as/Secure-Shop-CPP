@@ -65,7 +65,7 @@ You need a standard C++ compiler (like `g++`) installed on your machine.
 Clone the repository and compile using the included `Makefile`:
 
 ```bash
-git clone https://github.com/your-username/Secure-Shop-CPP.git
+git clone https://github.com/4li466as/Secure-Shop-CPP.git
 cd Secure-Shop-CPP
 make
 ```
