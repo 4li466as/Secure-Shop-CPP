@@ -1,0 +1,23 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+secure_shop
+
+# Generated Data Files
+users.txt
+failed_logins.txt
+products.txt
+sales.txt
+promo_codes.txt
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
